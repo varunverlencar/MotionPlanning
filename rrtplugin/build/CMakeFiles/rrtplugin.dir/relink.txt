@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC    -shared -Wl,-soname,librrtplugin.so -o CMakeFiles/CMakeRelink.dir/librrtplugin.so CMakeFiles/rrtplugin.dir/rrtplugin.cpp.o  -L/usr/local/lib -lopenrave0.9 
